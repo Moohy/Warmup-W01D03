@@ -163,7 +163,7 @@ else if (input >= 18) console.log("Drive away!")
 ```js
 var tempC = 30
 var tempCToF = ( tempC *  9/5) + 32
-console.log(tempC + "°C is " + tempF + "°F"
+console.log(tempC + "°C is " + tempCToF + "°F"
 var tempFToC = (tempCToF − 32) * 5/9
 console.log(tempCToF + "°F is " + tempFToC  + "°C."
 ```
