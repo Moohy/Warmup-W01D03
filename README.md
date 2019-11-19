@@ -25,10 +25,10 @@ Rate your understanding of the following questions on a scale of 1 - 5. If your 
   - Which line(s) is/are valid? all except the third
 
     ```js
-    let a = 0; works
-    const b = 1; works
-    9 = a; doesn't work
-    b = b + 5; works
+    let a = 0;   \\works
+    const b = 1; \\works
+    9 = a;       \\doesn't work
+    b = b + 5;   \\works
     ```
 
 2. How do we change the value of a variable? reassign it if not a const
