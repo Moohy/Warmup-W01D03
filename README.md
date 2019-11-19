@@ -173,6 +173,7 @@ console.log(tempCToF + "°F is " + tempFToC  + "°C."
 
 // Store the following into variables: number of children, partner's name, geographic location, job title. Output your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
 
+```js
 const person = {
   numOfChildren : 5,
   parentName : "Someone",
@@ -180,3 +181,4 @@ const person = {
   jobTitle : "SEI student"
 }
 console.log("You will be a " + person.jobTitle + " in " + person.location + ", and married to " + person.parentName + " with " + person.numOfChildren + " kids."
+```
