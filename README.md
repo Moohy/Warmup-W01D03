@@ -98,7 +98,7 @@ var str = "Hello, my name is " + yourName
 1.  'Peanut' === 'Peanut';
 1.  a < b > c;
 1.  a === a < d;
-1.  e != 'Jelly Bean';
+1.  e === 'Jelly Bean';
 1.  48 != '48';
 1. 'e' < 'Eh' || 'e' !== 'Eh'
 
